@@ -14,7 +14,7 @@ The following image demonstrates the web application's appearance:
 
 ## Link to the deployed application: 
 
-https://mad88era.github.io/first-challenge/
+https://mad88era.github.io/module-challenge-1/
 
 ## License
 MIT License (Please refer to license in repo)
